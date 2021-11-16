@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/under-cover/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/under-cover/static/js/main.a70c00c6.chunk.js",
-    "main.js.map": "/under-cover/static/js/main.a70c00c6.chunk.js.map",
-    "runtime-main.js": "/under-cover/static/js/runtime-main.164761cf.js",
-    "runtime-main.js.map": "/under-cover/static/js/runtime-main.164761cf.js.map",
-    "static/js/2.ac4f7d2a.chunk.js": "/under-cover/static/js/2.ac4f7d2a.chunk.js",
-    "static/js/2.ac4f7d2a.chunk.js.map": "/under-cover/static/js/2.ac4f7d2a.chunk.js.map",
-    "static/js/3.f0378780.chunk.js": "/under-cover/static/js/3.f0378780.chunk.js",
-    "static/js/3.f0378780.chunk.js.map": "/under-cover/static/js/3.f0378780.chunk.js.map",
+    "main.css": "/under-cover/static/css/main.d61c2d19.chunk.css",
+    "main.js": "/under-cover/static/js/main.915a2bcd.chunk.js",
+    "main.js.map": "/under-cover/static/js/main.915a2bcd.chunk.js.map",
+    "runtime-main.js": "/under-cover/static/js/runtime-main.c6e2b0b0.js",
+    "runtime-main.js.map": "/under-cover/static/js/runtime-main.c6e2b0b0.js.map",
+    "static/css/2.e6c1e8c5.chunk.css": "/under-cover/static/css/2.e6c1e8c5.chunk.css",
+    "static/js/2.0fec4f51.chunk.js": "/under-cover/static/js/2.0fec4f51.chunk.js",
+    "static/js/2.0fec4f51.chunk.js.map": "/under-cover/static/js/2.0fec4f51.chunk.js.map",
+    "static/js/3.7cf3e9cd.chunk.js": "/under-cover/static/js/3.7cf3e9cd.chunk.js",
+    "static/js/3.7cf3e9cd.chunk.js.map": "/under-cover/static/js/3.7cf3e9cd.chunk.js.map",
     "index.html": "/under-cover/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/under-cover/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ac4f7d2a.chunk.js.LICENSE.txt": "/under-cover/static/js/2.ac4f7d2a.chunk.js.LICENSE.txt",
+    "static/css/2.e6c1e8c5.chunk.css.map": "/under-cover/static/css/2.e6c1e8c5.chunk.css.map",
+    "static/css/main.d61c2d19.chunk.css.map": "/under-cover/static/css/main.d61c2d19.chunk.css.map",
+    "static/js/2.0fec4f51.chunk.js.LICENSE.txt": "/under-cover/static/js/2.0fec4f51.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/under-cover/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.164761cf.js",
-    "static/js/2.ac4f7d2a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a70c00c6.chunk.js"
+    "static/js/runtime-main.c6e2b0b0.js",
+    "static/css/2.e6c1e8c5.chunk.css",
+    "static/js/2.0fec4f51.chunk.js",
+    "static/css/main.d61c2d19.chunk.css",
+    "static/js/main.915a2bcd.chunk.js"
   ]
 }
